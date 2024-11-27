@@ -20,6 +20,34 @@ h1 {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
+.project-info {
+    margin-bottom: 30px;
+}
+
+.project-info h2 {
+    color: #0073e6;
+}
+
+.project-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.project-info li {
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+.project-info a {
+    color: #0073e6;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.project-info a:hover {
+    text-decoration: underline;
+}
+
 button {
     display: inline-block;
     padding: 10px 20px;
