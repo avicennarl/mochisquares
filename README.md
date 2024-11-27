@@ -53,8 +53,8 @@ Uji Chi-Square adalah metode statistik yang digunakan untuk menentukan apakah ad
 ---
 
 ## 📸 Tangkapan Layar
-![Tangkapan Layar Tampilan Awal](/img/6213246797774700841.jpg)  
-![Tangkapan Layar hasil perhitungan Mochisquare](img/6213246797774700842.jpg)  
+![Tangkapan Layar Tampilan Awal] (img/6213246797774700842.jpg) 
+![Tangkapan Layar hasil perhitungan Mochisquare]  (/img/6213246797774700841.jpg) 
 _Tampilan awal dan output MochiSquare._
 
 ---
@@ -65,6 +65,11 @@ Proyek ini dikembangkan oleh:
 - Avicenna Ari Sumirat (222442006)
 - Jenaya Aurielle Feriwijaya (222442010)
 - M Naufal Haidar Rizq (222442015)
+
+---
+
+## 🙏 Ucapan Terima Kasih
+Kami ingin mengucapkan terima kasih yang sebesar-besarnya kepada **Ir. Duddy Arisandi, S.T., M.T.**, sebagai Dosen Statistika 3 AEA-1, yang telah memberikan bimbingan, dukungan, dan ilmu yang sangat berharga selama pengembangan proyek ini.
 
 ---
 
