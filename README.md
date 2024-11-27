@@ -53,8 +53,9 @@ Uji Chi-Square adalah metode statistik yang digunakan untuk menentukan apakah ad
 ---
 
 ## 📸 Tangkapan Layar
-![Tangkapan Layar MochiSquare](https://via.placeholder.com/800x400?text=Screenshot+Placeholder)  
-_Tampilan sederhana dan responsif MochiSquare._
+![Tangkapan Layar Tampilan Awal](/img/6213246797774700841.jpg)  
+![Tangkapan Layar hasil perhitungan Mochisquare](img/6213246797774700842.jpg)  
+_Tampilan awal dan output MochiSquare._
 
 ---
 
