@@ -10,7 +10,6 @@
 - **Penghitungan Otomatis**: Input data Anda, dan MochiSquare akan menghitung nilai Chi-Square secara instan.
 - **User-Friendly**: Antarmuka yang intuitif dan mudah digunakan, bahkan untuk pemula sekalipun.
 - **Responsif**: Dapat diakses melalui berbagai perangkat mobile dengan tampilan yang optimal.
-- **Gratis**: Nikmati semua fitur tanpa biaya!
 
 ---
 
