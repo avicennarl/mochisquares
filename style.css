@@ -100,14 +100,14 @@ input[type="number"] {
     font-weight: bold;
 }
 
-nav :where(ul) {
+nav ul {
     list-style-type: none;
     padding: 0;
     margin: 10px 0 0;
     text-align: center;
 }
 
-nav :where(ul,li) {
+nav ul li {
     display: inline;
     margin: 0 20px;
 }
