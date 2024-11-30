@@ -170,7 +170,7 @@ document.getElementById('submitDataBtn').onclick = function () {
         <p><strong>Variance Gabungan:</strong> ${combinedVariance.toFixed(4)}</p>
         <p><strong>Faktor Koreksi:</strong> ${correctionFactor.toFixed(4)}</p>
         <p><strong>Hasil:</strong> ${
-            chiSquare > criticalValueOverall ? 'Signifikan' : 'Tidak Signifikan'
+            chiSquare > criticalValueOverall ? 'Tidak dapat digabungkan' : 'Dapat digabungkan'
         }</p>
     `;
 
@@ -192,8 +192,8 @@ document.getElementById('submitDataBtn').onclick = function () {
                     <br>Faktor Koreksi = ${correctionFactor.toFixed(4)}
                     <br>Hasil = ${
                         chiSquare > criticalValuePairwise
-                            ? 'Signifikan'
-                            : 'Tidak Signifikan'
+                            ? 'Tidak dapat digabungkan'
+                            : 'Dapat digabungkan'
                     }
                 </p>
             `;
